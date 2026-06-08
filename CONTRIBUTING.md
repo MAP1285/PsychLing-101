@@ -71,7 +71,7 @@
 |The Lancaster Sensorimotor Norms   |                        [Link](https://link.springer.com/article/10.3758/s13428-019-01316-z)       |Jing Chen |
 |Italian Crowdsourcing Project (ICP)|       [Link](https://osf.io/e4x7w/overview?view_only=20c718b7a8594fdba02256b475832597))      |Simona Amenta|
 | Linear Discriminative Learning|       [Link](https://osf.io/hqut8)       |Rolando Bonandrini|
-| Italian Affective Norms |       [Link](https://osf.io/afe26/)      |Marco Petilli, Simona Amenta, Alessandra Vergallito, Marco Marelli|
+| Italian Affective Norms |       [Link](https://osf.io/afe26/)      |Marco Petilli|
 |Italian Perceptual Strength Norms |       [Link](https://osf.io/zdg59/)       |Alessandra Vergallito|
 |Word-association (STEM) |       [Link](https://arxiv.org/abs/2502.19529)       |Massimo Stel|
 |Dutch Lexicon Project 1|[Link](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2010.00174/full#cite)  |Sadaf Valadkhani|
